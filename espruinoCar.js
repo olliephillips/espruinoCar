@@ -88,7 +88,7 @@ var ec = {
   }
 };
 
-// Our server for the page
+// Our servePage handler which renders our controls
 function servePage(req, res) {
   var page ='<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport"';
   page += 'content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"></head>';
