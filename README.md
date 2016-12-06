@@ -11,3 +11,5 @@ There are four components:-
 2. The control object, `ec`
 3. The HTML page to serve which allows us to control the car from iPhone.
 4. The http/websocket server, which serves the HTML page and creates a websocket connection and listens for message events.
+
+Full write up of project [can be found here](https://slippytrumpet.io/posts/building-an-rc-car-with-espruino-on-esp8266/)
